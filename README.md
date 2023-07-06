@@ -1,4 +1,6 @@
 # 2048 Game
+## Note
+This project was made before I learned how to use Git hence there isn't an extensive commit history.
 ## Summary
 As part of a Software Development class, I completed a project that involved creating the 2048 game using Java. In addition to coding the game itself, I also learned several key concepts such as the Module Interface Specification, UML Class diagram, Control Flow Chart, and JUnit tests.
 
